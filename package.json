@@ -1,0 +1,17 @@
+{
+  "name": "test-babylon",
+  "version": "1.0.0",
+  "description": "Test Babylon",
+  "main": "index.js",
+  "repository": "",
+  "scripts": {
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
